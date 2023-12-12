@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhamamdShehzad&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadShehzad" /> </p>
 
-- 🔭 I have worked on **Backend Development of DeFi and fintech based Applications.**
+- 🔭 I have worked on **Backend Development in Django, Flask and FastApi Applications.**
 
-- 🌱 I’m currently working as a **Full stack developer.**
+- 🌱 I’m currently working on my **Final Year Project.**
 
 - 👯 I’m looking to collaborate on **open-source python full - stack projects.**
 
