@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mshehzadkhaann@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mshehzadkhan/](https://www.linkedin.com/in/mshehzadkhan/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mshehzadkhan/](https://www.linkedin.com/in/mshehzadk/)
 
 - ⚡ Fun fact **I am very curious thus I do not bound myself with any particular tech stack, I love to try-out new tools and frameworks.**
 
